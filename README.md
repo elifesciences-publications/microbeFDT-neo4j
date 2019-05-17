@@ -1,6 +1,8 @@
 # microbeFDT-neo4j
 <img align="right" src="images/model.png" />
 
+### This code is associated with the paper from Guthrie et al., "The human gut chemical landscape predicts microbe-mediated biotransformation of foods and drugs". eLife, 2019. http://dx.doi.org/10.7554/eLife.42866
+
 # About microbeFDT
 The gut microbiota complements host-driven metabolism of dietary compounds and xenobiotics, such as therapeutic drugs. Some gastrointestinally-routed drugs with uncharacterized metabolism and downstream effects on patients, have overlapping chemical properties with dietary compounds, and thus may share gut microbiota enzymatic susceptibilities. 
 
